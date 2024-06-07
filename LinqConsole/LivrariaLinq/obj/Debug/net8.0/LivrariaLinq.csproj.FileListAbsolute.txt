@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\bin\Debug\net8.0\LivrariaLinq.deps.json
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\bin\Debug\net8.0\LivrariaLinq.dll
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\bin\Debug\net8.0\LivrariaLinq.pdb
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.dll
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\refint\LivrariaLinq.dll
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\LivrariaLinq.pdb
+C:\Users\Eduardo\source\repos\LinqConsole\LivrariaLinq\obj\Debug\net8.0\ref\LivrariaLinq.dll
